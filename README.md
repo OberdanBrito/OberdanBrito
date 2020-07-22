@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+{::nomarkdown}
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="oberdan-de-jesus-5820b096"><a class="LI-simple-link" href='https://br.linkedin.com/in/oberdan-de-jesus-5820b096?trk=profile-badge'>Oberdan De Jesus</a></div>
+
+
+{:/}
+
