@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github Badge](https://img.shields.io/github/followers/oberdanbrito?label=Seguir&style=social)](https://github.com/oberdanbrito)
 
-{::nomarkdown}
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="oberdan-de-jesus-5820b096"><a class="LI-simple-link" href='https://br.linkedin.com/in/oberdan-de-jesus-5820b096?trk=profile-badge'>Oberdan De Jesus</a></div>
-
-
-{:/}
-
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-rebeccamanzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rebeccamanzi/)
+-->
