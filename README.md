@@ -1,21 +1,9 @@
-### Hi there 👋
+## 😁 Bem vindo(a)! 
 
-<!--
-**OberdanBrito/OberdanBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
 
-Here are some ideas to get you started:
+Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo menos 10 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
+
 [![Github Badge](https://img.shields.io/github/followers/oberdanbrito?label=Seguir&style=social)](https://github.com/oberdanbrito)
-
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-rebeccamanzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rebeccamanzi/)
--->
