@@ -11,4 +11,4 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 [![github stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&count_private=true&show_icons=true?theme=buefy)](https://github.com/oberdanbrito/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
