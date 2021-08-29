@@ -15,5 +15,5 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/github/Craos/craos.gestor.svg)](https://wakatime.com/badge/github/Craos/craos.gestor)
-image:https://wakatime.com/badge/github/Craos/craos.gestor.svg["wakatime", link="https://wakatime.com/badge/github/Craos/craos.gestor"]
+![image](https://wakatime.com/badge/github/Craos/craos.gestor.svg["wakatime", link="https://wakatime.com/badge/github/Craos/craos.gestor"])
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
