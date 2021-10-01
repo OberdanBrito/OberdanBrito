@@ -19,3 +19,4 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 [![Gestor Mast](https://wakatime.com/badge/github/Grupo-Mast/mast.gestor.svg)](https://wakatime.com/badge/github/Grupo-Mast/mast.gestor)
 
 <figure><embed src="https://wakatime.com/share/@eb9c14f3-847b-4b7f-be05-24cba40f2b44/ed077b4b-e8e9-437e-bbec-47e7b8419763.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Oberdan/862f663e-5c60-4bee-a0c3-2bde7501f501.svg"></embed></figure>
