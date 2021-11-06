@@ -8,10 +8,7 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 
 [![Github Badge](https://img.shields.io/github/followers/oberdanbrito?label=Seguir&style=social)](https://github.com/oberdanbrito)
 
-![image](https://github.com/OberdanBrito/OberdanBrito/blob/master/0_ufaVvQOJjhQj42uj.jpeg)
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&count_private=true&include_all_commits=true&show_icons=true?theme=buefy)](https://github.com/oberdanbrito/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
 
