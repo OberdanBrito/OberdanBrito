@@ -12,4 +12,4 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@eb9c14f3-847b-4b7f-be05-24cba40f2b44)
+[![wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
