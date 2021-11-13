@@ -13,3 +13,4 @@ Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalme
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@eb9c14f3-847b-4b7f-be05-24cba40f2b44)
+<a href="https://app.daily.dev/oberdanbrito"><img src="https://api.daily.dev/devcards/7331b9b5a72c4d988765f01a1bc2921b.png?r=g8p" width="400" alt="Oberdan Brito de Jesus's Dev Card"/></a>
