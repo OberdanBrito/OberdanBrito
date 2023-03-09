@@ -1,4 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/D4D03AQFcdCEjjSbzYg/profile-displayphoto-shrink_800_800/0/1678375613994?e=1683763200&v=beta&t=hHRiqpJUpE80Pe21iyeTDhxlu8mU9ebcT1I0Jhk1ogA)
+![alt text]()
 
 ## 😁 Olá, seja bem vindo(a)! 
 
