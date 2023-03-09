@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://media.licdn.com/dms/image/D4D03AQFcdCEjjSbzYg/profile-displayphoto-shrink_800_800/0/1678375613994?e=1683763200&v=beta&t=hHRiqpJUpE80Pe21iyeTDhxlu8mU9ebcT1I0Jhk1ogA))
+![alt text](https://media.licdn.com/dms/image/C4D16AQFdfI3BXzvuxg/profile-displaybackgroundimage-shrink_350_1400/0/1607723974028?e=1683763200&v=beta&t=VmqW4GoW-fJ6wPZVE0LrpbZOxPSotkKA9OMhWBrw4as)
 
 ## 😁 Olá, seja bem vindo(a)! 
 
