@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://media.licdn.com/dms/image/D4D03AQFcdCEjjSbzYg/profile-displayphoto-shrink_800_800/0/1678375613994?e=1683763200&v=beta&t=hHRiqpJUpE80Pe21iyeTDhxlu8mU9ebcT1I0Jhk1ogA))
+
 ## 😁 Olá, seja bem vindo(a)! 
 
 Sou um desenvolvedor de software com mais de 20 anos de experiência na criação de soluções tecnológicas para ajudar as pessoas a superar seus desafios. Minha paixão é criar soluções funcionais e objetivas que são simples de usar e que permitem que as pessoas avancem mais rápido em seus projetos.
