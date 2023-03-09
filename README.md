@@ -1,10 +1,10 @@
-## 😁 Bem vindo(a)! 
+## 😁 Olá, seja bem vindo(a)! 
 
-Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
+Sou um desenvolvedor de software com mais de 20 anos de experiência na criação de soluções tecnológicas para ajudar as pessoas a superar seus desafios. Minha paixão é criar soluções funcionais e objetivas que são simples de usar e que permitem que as pessoas avancem mais rápido em seus projetos.
 
-Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo menos 10 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
+Tenho experiência em diversas áreas, incluindo desenvolvimento web, aplicativos móveis e análise de dados. Alguns dos meus projetos mais recentes incluem uma plataforma que auxilia condôminos para conveniência em condomíios. Mas além desse, constumo desenvolver do zero, códigos que solucionam em diferentes áreas, indústria, escolas, escritórios etc.
 
-Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
+Se você está procurando soluções tecnológicas para melhorar o seu trabalho ou negócio, entre em contato comigo para ver como posso ajudá-lo(a) a alcançar seus objetivos!
 
 [![Github Badge](https://img.shields.io/github/followers/oberdanbrito?label=Seguir&style=social)](https://github.com/oberdanbrito)
 
