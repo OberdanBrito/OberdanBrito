@@ -1,5 +1,5 @@
 <img src="https://github.com/OberdanBrito/OberdanBrito/blob/95409f8d18dbcc1be009fed6e4e0f9108b03fe38/profile-pic.png" width="128"/>
-##😁 Olá, seja bem vindo(a)! 
+# 😁 Olá, seja bem vindo(a)! 
 
 Sou um desenvolvedor de software com mais de 20 anos de experiência na criação de soluções tecnológicas para ajudar as pessoas a superar seus desafios. Minha paixão é criar soluções funcionais e objetivas que são simples de usar e que permitem que as pessoas avancem mais rápido em seus projetos.
 
