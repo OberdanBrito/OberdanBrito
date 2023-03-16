@@ -14,3 +14,5 @@ Se você está procurando soluções tecnológicas para melhorar o seu trabalho 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@eb9c14f3-847b-4b7f-be05-24cba40f2b44)
+
+![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)
