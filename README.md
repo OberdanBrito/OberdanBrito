@@ -12,14 +12,14 @@ Tenho experiência em diversas áreas, incluindo desenvolvimento web, aplicativo
 
 Vamos lá!
 
-2023-03-20 Uma ajudinha com Ms Excel
+## **2023-03-20 Uma ajudinha com Ms Excel**
+
 O código dessa semana é uma ajuda que dei a um amigo. Ele estava precisando separar uma lista de clientes contida em um arquivo, onde a cada numero aleatório é possível encontrar a palavra "Empresa"
 
 Como a urgência falava mais alto, constuir algo do zero seria impossível, então encontrei uma solução simples e que acabou sendo útil para muitas planilhas dele.
 
-<scipt src="https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be"></script>
 
-
+{% gist 253fc530539c3e72d6268826829151be %}
 
 
 
