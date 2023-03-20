@@ -92,7 +92,7 @@ Um para cada empresa que foi encontrada na planilha.
     Debug.Print empresa & " Inicio:" & inicio & " Final:" & final
 ```
 
-Pessoal, acessem o [código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be.js)
+Pessoal, acessem o [código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be)
 estudem e se divirtam! Se tiver alguma dúvida entrem em contato.
 
 Uma boa semana e até a próxima. 
