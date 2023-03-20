@@ -21,7 +21,7 @@ Vamos lá!
 
 O código dessa semana é uma ajuda que dei a um amigo. Ele estava precisando separar uma lista de clientes contida em um arquivo, onde continha a palavra "Empresa" porém estava separada por intervalos com nomes de funcionários.
 Como a urgência falava mais alto, construir algo do zero seria impossível, então encontrei uma solução simples e que acabou sendo útil para muitas planilhas dele.
-[Este e o link do código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be.js)
+[Esse é o link do código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be)
 
 Há sim... quem não se lembra do velho VBA. Ainda na década de 90 a Microsoft precisava apresentar aos seus clientes corporativos alguma forma que ajudasse eles a automatizar as tarefas. Visto que a grande sacada do Office é oferecer um produto genérico na qual usuários com conhecimento mais aprofundados pudessem deixar rotinas mais inteligentes.
 mas sem longas histórias, a solução que encontrei, utiliza dois loops para identificar onde encontrar uma palavra que sempre repete no arquivo. Se essa for a sua necessidade dê uma olhada nesse exemplo:
