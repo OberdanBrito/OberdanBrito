@@ -37,7 +37,7 @@ Tenho experiência em diversas áreas, incluindo:
 
 ## 🚀 Projetos Destacados
 
-### 🧠 [srm.dharma](https://github.com/GrupoSRM/srm.dharma)
+### 🧠 srm.dharma
 **Projeto Atual** - Sistema corporativo para gestão de processos e recursos empresariais. Estou ativamente contribuindo para o desenvolvimento deste projeto, implementando novas funcionalidades e aprimorando a arquitetura do sistema.
 
 ### 🔄 [commit-me](https://github.com/OberdanBrito/commit-me)
