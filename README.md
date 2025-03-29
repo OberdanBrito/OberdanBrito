@@ -20,13 +20,19 @@ Tenho experiência em diversas áreas, incluindo:
 - 📊 Análise de dados
 - 🏢 Soluções para indústria, escolas e escritórios
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Especialidades e Tecnologias
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Linguagens de Programação Principais
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Outras Tecnologias
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -34,6 +40,8 @@ Tenho experiência em diversas áreas, incluindo:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito&layout=compact&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
 [![Oberdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&show_icons=true&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
+
+*Nota: As estatísticas acima refletem apenas meus repositórios públicos. A maior parte do meu trabalho é realizado em repositórios privados onde utilizo principalmente JavaScript, C# e SQL.*
 
 ## 🚀 Projetos Destacados
 
