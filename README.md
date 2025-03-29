@@ -56,6 +56,8 @@ Este microserviço:
 - Possibilita a revisão posterior do código com commits mais significativos e bem documentados
 - Ajuda a evitar a perda de trabalho não commitado
 
+Foi com este projeto que publiquei meu primeiro pacote no [npmjs.org](https://www.npmjs.org), o que representou um desafio significativo para mim. O processo de configurar corretamente o package.json, entender o fluxo de publicação, lidar com versionamento e garantir que o pacote fosse instalável globalmente foi uma experiência de aprendizado valiosa, apesar das dificuldades iniciais.
+
 A ferramenta resultou em uma melhoria significativa no meu fluxo de trabalho, permitindo que eu escreva mensagens de commit mais claras e úteis quando faço o merge final das alterações.
 
 ### 📄 [curriculo](https://github.com/OberdanBrito/curriculo)
