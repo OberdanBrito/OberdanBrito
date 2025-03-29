@@ -85,6 +85,7 @@ Sou fã de **Linux** 🐧 e acredito que entender o sistema operacional ajuda mu
 
 ---
 
+
 ### 📝 Dica de VBA para Manipular Planilhas
 
 ```visual basic
