@@ -47,18 +47,17 @@ Dentro do projeto srm.dharma, desenvolvi um sistema Gestor de API usando ASP.NET
 ### 🔄 [commit-me](https://github.com/OberdanBrito/commit-me)
 **Microserviço para Commits Automatizados**
 
-Desenvolvi este serviço para resolver um problema comum no desenvolvimento: a dificuldade de lembrar todas as alterações realizadas durante sessões intensas de codificação e testes. Quando me concentro em implementar e testar funcionalidades, frequentemente esqueço de fazer commits regulares com mensagens descritivas.
+Fiz essa ferramenta para resolver um problema que sempre tive: quando estou codando e testando, acabo esquecendo de fazer commits. Daí quando vou fazer, já nem lembro mais direito tudo que mudei.
 
-Este microserviço:
-- Realiza commits em intervalos regulares configuráveis
-- Permite que eu concentre toda minha atenção no desenvolvimento sem interrupções 
-- Garante um histórico de alterações mais granular e completo
-- Possibilita a revisão posterior do código com commits mais significativos e bem documentados
-- Ajuda a evitar a perda de trabalho não commitado
+O que ele faz:
+- Faz commits automáticos de tempos em tempos
+- Me deixa focar só em programar sem preocupação
+- Salva meu trabalho regularmente para não perder nada
+- Me ajuda a lembrar o que fiz quando vou revisar depois
 
-Foi com este projeto que publiquei meu primeiro pacote no [npmjs.org](https://www.npmjs.org), o que representou um desafio significativo para mim. O processo de configurar corretamente o package.json, entender o fluxo de publicação, lidar com versionamento e garantir que o pacote fosse instalável globalmente foi uma experiência de aprendizado valiosa, apesar das dificuldades iniciais.
+Foi nesse projeto que coloquei meu primeiro pacote no [npmjs.org](https://www.npmjs.org), e foi meio complicado. Tive que aprender na marra como configurar o package.json, publicar o pacote, lidar com versões e fazer ele funcionar quando instalado.
 
-A ferramenta resultou em uma melhoria significativa no meu fluxo de trabalho, permitindo que eu escreva mensagens de commit mais claras e úteis quando faço o merge final das alterações.
+No final, essa ferramenta me ajuda muito no dia a dia. Agora posso programar tranquilo e depois revisar o que fiz com calma para fazer um commit final com uma mensagem que faz sentido.
 
 ### 📄 [curriculo](https://github.com/OberdanBrito/curriculo)
 Minha apresentação profissional
