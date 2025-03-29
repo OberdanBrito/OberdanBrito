@@ -40,6 +40,9 @@ Tenho experiência em diversas áreas, incluindo:
 ### 🧠 srm.dharma
 **Projeto Atual** - Sistema corporativo para gestão de processos e recursos empresariais. Estou ativamente contribuindo para o desenvolvimento deste projeto, implementando novas funcionalidades e aprimorando a arquitetura do sistema.
 
+#### 🔌 srm.rest
+Dentro do projeto srm.dharma, desenvolvi um sistema Gestor de API usando ASP.NET Core e MVC. Este sistema é capaz de gerir dinamicamente endpoints de acesso diretamente ao banco de dados SQL Server, funcionando de forma similar ao PostgREST. Esta solução permite a criação e gerenciamento de APIs RESTful sem a necessidade de codificação manual para cada endpoint.
+
 ### 🔄 [commit-me](https://github.com/OberdanBrito/commit-me)
 Serviço para envio de commit em intervalos regulares
 
