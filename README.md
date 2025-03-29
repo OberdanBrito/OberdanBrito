@@ -41,7 +41,10 @@ Tenho experiência em diversas áreas, incluindo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito&layout=compact&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
 [![Oberdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&show_icons=true&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
 
-*Nota: As estatísticas acima refletem apenas meus repositórios públicos. A maior parte do meu trabalho é realizado em repositórios privados onde utilizo principalmente JavaScript, C# e SQL.*
+> **Nota sobre as estatísticas do GitHub:**  
+> As estatísticas acima refletem apenas meus repositórios públicos, o que representa uma pequena fração do meu trabalho real:
+> - A maior parte do meu código é desenvolvido em repositórios privados onde utilizo principalmente JavaScript, C# e SQL
+> - Embora as estatísticas públicas mostrem poucos Pull Requests, tenho extensiva experiência com fluxos de trabalho colaborativos. Por exemplo, em apenas um repositório privado, contribuí com mais de 24 PRs
 
 ## 🚀 Projetos Destacados
 
