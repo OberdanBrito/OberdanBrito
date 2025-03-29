@@ -1,104 +1,70 @@
 <img src="https://github.com/OberdanBrito/OberdanBrito/blob/95409f8d18dbcc1be009fed6e4e0f9108b03fe38/profile-pic.png" width="128"/>
 
-😁 Olá, pessoal, desde já, agradeço por lê a minha apresentação, sinta-se a vontade para entrar em contato quando quiser! Ou convidar para um café/cerveja 🍻.
+# Oberdan Brito
+## Desenvolvedor na Craos.NET
 
-Gosto de desenvolver códigos: há muito tempo faço isso. Até onde, me lembro bem... em 1994, eu digitava em teclados duros da IBM e olhava para monitores com prompt verde, e esquecia de colocar o disquete de 5- 1/4 antes de enviar o comando para liberar o disquete corrente. E sempre gostei de descobrir o funcionamento das coisas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OberdanBrito)
+[![Wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@eb9c14f3-847b-4b7f-be05-24cba40f2b44)
 
-Boa parte das coisas que faço aqui no GitHub estão no privado, mas de uns tempos para cá, resolvi que vou publicar algumas coisas que faço semanalmente. Geralmente partes de códigos que compõe sistemas. O intuito aqui é apenas ajudar.
+## 👨‍💻 Sobre mim
 
+😁 Olá, pessoal! Agradeço por ler minha apresentação. Sinta-se à vontade para entrar em contato quando quiser ou me convidar para um café/cerveja 🍻.
 
-Tenho experiência em diversas áreas, incluindo desenvolvimento web, aplicativos móveis e análise de dados. Alguns dos meus projetos mais recentes incluem uma plataforma que auxilia condôminos para conveniência em suas moradias. Mas além desse, consumo desenvolver do zero, códigos que solucionam em diferentes áreas, indústria, escolas, escritórios etc.
+Sou desenvolvedor há muitos anos. Comecei em 1994, quando digitava em teclados duros da IBM e olhava para monitores com prompt verde. Sempre gostei de descobrir como as coisas funcionam.
 
+Tenho experiência em diversas áreas, incluindo:
+- 💻 Desenvolvimento web
+- 📱 Aplicativos móveis
+- 📊 Análise de dados
+- 🏢 Soluções para indústria, escolas e escritórios
 
-#### **Essa lista a baixo já mostra logo o que mais gosto né?**
+## 🛠️ Tecnologias & Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito)](https://github.com/oberdanbrito/github-readme-stats)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📈 Estatísticas GitHub
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito&layout=compact&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
+[![Oberdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&show_icons=true&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
 
-Vamos lá!
-## **2023-03-20 Uma ajudinha com Ms Excel**
+## 🚀 Projetos Destacados
 
-O código dessa semana é uma ajuda que dei a um amigo. Ele estava precisando separar uma lista de clientes contida em um arquivo, onde continha a palavra "Empresa" porém estava separada por intervalos com nomes de funcionários.
-Como a urgência falava mais alto, construir algo do zero seria impossível, então encontrei uma solução simples e que acabou sendo útil para muitas planilhas dele.
-[Esse é o link do código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be)
+### 🔄 [commit-me](https://github.com/OberdanBrito/commit-me)
+Serviço para envio de commit em intervalos regulares
 
-Há sim... quem não se lembra do velho VBA. Ainda na década de 90 a Microsoft precisava apresentar aos seus clientes corporativos alguma forma que ajudasse eles a automatizar as tarefas. Visto que a grande sacada do Office é oferecer um produto genérico na qual usuários com conhecimento mais aprofundados pudessem deixar rotinas mais inteligentes.
-mas sem longas histórias, a solução que encontrei, utiliza dois loops para identificar onde encontrar uma palavra que sempre repete no arquivo. Se essa for a sua necessidade dê uma olhada nesse exemplo:
+### 📄 [curriculo](https://github.com/OberdanBrito/curriculo)
+Minha apresentação profissional
 
-Para quem não está familiarizado com VBA, toda variável deve ser declarada e repare que para fazer isso você deve usar a palavra reservada "Dim" de dimensionar, sacou?
+### 💼 Plataforma para Gestão de Condomínios
+Um dos meus projetos recentes que auxilia condôminos para conveniência em suas moradias.
 
-```
- 
-    Dim flag As Boolean 
-    flag = False 
-    
-    Dim linha, contador, inicio, final As Long
-    linha = 1 
-    contador = 0 
-    inicio = 0 
-    final = 0 
+---
 
-```  
+### 📝 Dica de VBA para Manipular Planilhas
 
-Agora a parte fundamental, repare que há um loop. 
-Este é utilizado para percorrer todas as linhas da planilha do Excel.
+```visual basic
+Workbooks.Add
+Set novoarquivo = ActiveWorkbook
+Worksheets.Item(1).Name = "Planilha da fatura"
+Worksheets.Item(1).Paste
+Selection.PasteSpecial Paste:=xlPasteColumnWidths, Operation:=xlNone, SkipBlanks:=False, Transpose:=False
+Range("A1").Activate
 
-```
-    While Not flag 
-       If InStr(ws.Cells(linha, 1).Value, "Empresa:") > 0 Then
-
-```
-Você pode substituir por qualquer palavra para pesquisar, desde que essa faça parte de um padrão dentro do seu arquivo. Vamos imaginar que ao invés de "Empresa:" o seu arquivo seja uma lista de alunos, nesse caso basta modificar o valor da pesquisa pela palavra "alunos".
-Mas atenção, procure identificar bem o seu padrão. Se na sua planilha existir mais de uma forma para escrita, você deve primeiro certificar-se de que está pesquisando um caso bem específico.
-No meu caso para evitar essa coincidência, eu reparei que sempre quando havia a palavra empresa ela era seguida pelos dois pontos (:), assim ficou fácil.
-
-Após a identificação, você deve estabelecer um ponto de partida e um ponto de encerramento, que servem para você fazer o que mais estiver necessitado no momento, uma cópia das células (Meu caso), formatação ou edição de dados seja possível.
-Então para que a magia pudesse ocorrer eu usei um novo loop
-
-
-````
-    Do
-        final = final + 1
-        If InStr(ws.Cells(final, 1).Value, "Empresa:") > 0 Or vazios = 10 Then Exit Do
-        If IsEmpty(ws.Cells(final, 1)) Then vazios = vazios + 1
-        
-    Loop
-    Range("A" & inicio & ":K" & final - 1).Copy
-````
-
-Repare que no primeiro loop estamos percorrendo linha por linha para identificar onde começa uma empresa, já nesse segundo caso nós precisamos identificar o final que determina o início da uma outra empresa.
-Uma vez encontrado o final agora sabemos o que selecionar. É aí que entra a palavra "Range"
-Essa função interna do Excel nada mais é que a capacidade de selecionar uma área ou os mesmos movimentos que você faria com o seu mouse passando encima e selecionado as áreas que deseja de uma planilha
-
-Por fim eu definir o que desejava com a minha seleção. **É claro que você deve alterar isso também, a fim de refletir a sua necessidade 👀 **
-
-Bônus: O código final apresenta uma maneira fácil de separar o conteúdo obtido no comando "Range" e cola dentro de um novo arquivo.
-Um para cada empresa que foi encontrada na planilha.
-
-
-```visual badic
-    Workbooks.Add
-    Set novoarquivo = ActiveWorkbook
-    Worksheets.Item(1).Name = "Planilha da fatura"
-    Worksheets.Item(1).Paste
-    Selection.PasteSpecial Paste:=xlPasteColumnWidths, Operation:=xlNone, SkipBlanks:=False, Transpose:=False
-    Range("A1").Activate
-    
-    novoarquivo.SaveAs Filename:="C:\minhas_empresas\" & empresa & ".xls"
-    novoarquivo.Save
-    novoarquivo.Close
-    
-    Debug.Print empresa & " Inicio:" & inicio & " Final:" & final
+novoarquivo.SaveAs Filename:="C:\\minhas_empresas\\" & empresa & ".xls"
+novoarquivo.Save
+novoarquivo.Close
 ```
 
-Pessoal, acessem o [código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be)
-estudem e se divirtam! Se tiver alguma dúvida entrem em contato.
+Para mais detalhes, acesse o [código completo](https://gist.github.com/OberdanBrito/253fc530539c3e72d6268826829151be)
 
-Uma boa semana e até a próxima. 
-
-
-
-[![wakatime](https://wakatime.com/badge/user/eb9c14f3-847b-4b7f-be05-24cba40f2b44.svg)](https://wakatime.com/@eb9c14f3-847b-4b7f-be05-24cba40f2b44)
+---
 
 ![Snake animation](https://github.com/oberdanbrito/oberdanbrito/blob/output/github-contribution-grid-snake.svg)
