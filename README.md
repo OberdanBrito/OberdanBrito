@@ -45,19 +45,19 @@ Tenho experiência em diversas áreas, incluindo:
 Dentro do projeto srm.dharma, desenvolvi um sistema Gestor de API usando ASP.NET Core e MVC. Este sistema é capaz de gerir dinamicamente endpoints de acesso diretamente ao banco de dados SQL Server, funcionando de forma similar ao PostgREST. Esta solução permite a criação e gerenciamento de APIs RESTful sem a necessidade de codificação manual para cada endpoint.
 
 ### 🔄 [commit-me](https://github.com/OberdanBrito/commit-me)
-**Microserviço para Commits Automatizados**
+**Microserviço para Commits Automatizados** 🤖
 
-Fiz essa ferramenta para resolver um problema que sempre tive: quando estou codando e testando, acabo esquecendo de fazer commits. Daí quando vou fazer, já nem lembro mais direito tudo que mudei.
+Fiz essa ferramenta para resolver um problema que sempre tive: quando estou codando e testando, acabo esquecendo de fazer commits. 😅 Daí quando vou fazer, já nem lembro mais direito tudo que mudei. 🤔
 
 O que ele faz:
-- Faz commits automáticos de tempos em tempos
-- Me deixa focar só em programar sem preocupação
-- Salva meu trabalho regularmente para não perder nada
-- Me ajuda a lembrar o que fiz quando vou revisar depois
+- ⏱️ Faz commits automáticos de tempos em tempos
+- 🧠 Me deixa focar só em programar sem preocupação
+- 💾 Salva meu trabalho regularmente para não perder nada
+- 🔍 Me ajuda a lembrar o que fiz quando vou revisar depois
 
-Foi nesse projeto que coloquei meu primeiro pacote no [npmjs.org](https://www.npmjs.org), e foi meio complicado. Tive que aprender na marra como configurar o package.json, publicar o pacote, lidar com versões e fazer ele funcionar quando instalado.
+Foi nesse projeto que coloquei meu primeiro pacote no [npmjs.org](https://www.npmjs.org), e foi meio complicado. 😓 Tive que aprender na marra como configurar o package.json, publicar o pacote, lidar com versões e fazer ele funcionar quando instalado. 💪
 
-No final, essa ferramenta me ajuda muito no dia a dia. Agora posso programar tranquilo e depois revisar o que fiz com calma para fazer um commit final com uma mensagem que faz sentido.
+No final, depois de muito quebrar a cabeça, consegui fazer funcionar! 🎉 Essa ferramenta me ajuda muito no dia a dia. Agora posso programar tranquilo 😌 e depois revisar o que fiz com calma para fazer um commit final com uma mensagem que faz sentido. 👍
 
 ### 📄 [curriculo](https://github.com/OberdanBrito/curriculo)
 Minha apresentação profissional
