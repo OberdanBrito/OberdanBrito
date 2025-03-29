@@ -26,6 +26,8 @@ Tenho experiência em diversas áreas, incluindo:
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Outras Tecnologias
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -33,8 +35,16 @@ Tenho experiência em diversas áreas, incluindo:
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![PostgREST](https://img.shields.io/badge/PostgREST-009688?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Ferramentas Favoritas 🛠️
+![JetBrains](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 ## 🚀 Projetos Destacados
 
@@ -64,6 +74,14 @@ Minha apresentação profissional
 
 ### 💼 Plataforma para Gestão de Condomínios
 Um dos meus projetos recentes que auxilia condôminos para conveniência em suas moradias.
+
+## 💡 Meu Estilo de Trabalho
+
+Sou apaixonado por **automatizar processos** 🤖 e criar scripts para eliminar trabalho repetitivo. Adoro usar o **terminal** para agilizar as rotinas dos projetos e tenho vários scripts de linha de comando para automatizar publicações.
+
+Prefiro as **IDEs da JetBrains** pela robustez e recursos avançados (ainda estou me acostumando com o VSCode 😅).
+
+Sou fã de **Linux** 🐧 e acredito que entender o sistema operacional ajuda muito no desenvolvimento e deploy de aplicações.
 
 ---
 
