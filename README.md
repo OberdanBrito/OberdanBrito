@@ -36,16 +36,6 @@ Tenho experiência em diversas áreas, incluindo:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Estatísticas GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdanbrito&layout=compact&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
-[![Oberdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdanbrito&show_icons=true&theme=dracula)](https://github.com/oberdanbrito/github-readme-stats)
-
-> **Nota sobre as estatísticas do GitHub:**  
-> As estatísticas acima refletem apenas meus repositórios públicos, o que representa uma pequena fração do meu trabalho real:
-> - A maior parte do meu código é desenvolvido em repositórios privados onde utilizo principalmente JavaScript, C# e SQL
-> - Embora as estatísticas públicas mostrem poucos Pull Requests, tenho extensiva experiência com fluxos de trabalho colaborativos. Por exemplo, em apenas um repositório privado, contribuí com mais de 24 PRs
-
 ## 🚀 Projetos Destacados
 
 ### 🧠 srm.dharma
